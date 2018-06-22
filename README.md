@@ -1,1 +1,1 @@
-# Smash-Project-1
+# smash-2018-cs2-drawing-project
